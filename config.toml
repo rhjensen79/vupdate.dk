@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://dazzling-villani-6a2592.netlify.app/"  # Include trailing slash
+baseurl = "https://vupdate.dk/"  # Include trailing slash
 title = "Clarity"
 author = "Robert Jensen"
 copyright = "Copyright © 2020, vUpdate Authors; all rights reserved."
