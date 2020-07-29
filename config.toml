@@ -2,8 +2,8 @@
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://dazzling-villani-6a2592.netlify.app/"  # Include trailing slash
 title = "Clarity"
-author = "Jane Doe"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+author = "Robert Jensen"
+copyright = "Copyright © 2020, vUpdate Authors; all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
@@ -21,9 +21,9 @@ theme = "hugo-clarity"
     tabWidth = 2
 
 [params]
-author = "Jane Doe"
-twitter = "@janedoe"
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
+author = "Robert Jensen"
+twitter = "@rhjensen"
+introDescription = "Lead Cloud Management Specialist @ VMware"
 
 # Google analytics Id
 ga_analytics = "XXXXXXXXXX"
