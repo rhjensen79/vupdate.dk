@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://vupdate.dk/"  # Include trailing slash
-title = "Clarity"
+title = "vUpdate - VMware nyheder i podcast form"
 author = "Robert Jensen"
 copyright = "Copyright © 2020, vUpdate Authors; all rights reserved."
 # canonifyurls = true
