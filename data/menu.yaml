@@ -4,13 +4,19 @@
   link: post/rich-content/
 # - name: Mus
 #   link: /categories/music/
-- name: Links
+#- name: Links
+#  submenu:
+#    - name: LinkedIn
+#      link: https://www.linkedin.com/
+#    - name: Twitter
+#      link: https://twitter.com/
+- name: Direct podcast links
   submenu:
-    - name: LinkedIn
-      link: https://www.linkedin.com/
-    - name: Twitter
-      link: https://twitter.com/
+    - name: Anchor vUpdate
+      link: https://anchor.fm/vupdate
+    - name: Pocket Casts
+      link: https://pca.st/mjl9xiiz
+    - name: Spotify
+      link: https://open.spotify.com/show/7wA1QqULZzsYsqzbJbbXWk
 - name: About
   link: about/
-- name: Anchor vUpdate
-  link: https://anchor.fm/vupdate
