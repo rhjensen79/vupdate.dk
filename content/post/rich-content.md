@@ -15,7 +15,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 <!--more-->
 ---
 
-## Instagram Simple Shortcode
+## Instagram Simple Shortcode for Lars
 
 {{< instagram_simple BGvuInzyFAe hidecaption >}}
 
