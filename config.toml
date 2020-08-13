@@ -6,7 +6,7 @@ author = "Robert Jensen"
 copyright = "Copyright © 2020, vUpdate Authors; all rights reserved."
 # canonifyurls = true
 paginate = 10
-theme = "hugo-scroll"
+theme = "hugo-clarity"
 
 [markup]
   [markup.highlight]
